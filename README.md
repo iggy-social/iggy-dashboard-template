@@ -2,6 +2,8 @@
 
 This is a template that allows you to rapidly set up a dashboard to manage your smart contracts, or to develop a web app for end users.
 
+Feel free to use the provided code template for both commercial and non-commercial purposes. The contributors of this template do not assume any responsibility for any issues that may arise from its use. You are encouraged to modify and adapt the code to suit your specific needs. Enjoy coding!
+
 ## Delete mirror.yml in .github/workflows
 
 This file is for backup purposes only.
