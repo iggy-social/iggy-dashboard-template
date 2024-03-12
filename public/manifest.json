@@ -1,0 +1,15 @@
+{
+	"short_name": "iggy-dashboard-template",
+	"name": "Iggy Dashboard Template",
+	"description": "A template to easily create a web3 dashboard.",
+	"icons": [
+		{
+			"src": "favicon.svg",
+			"sizes": "48x48"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#ff007a",
+	"background_color": "#fff"
+}
