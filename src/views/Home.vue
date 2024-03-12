@@ -258,6 +258,12 @@ export default {
           this.isCurrentUserManager = true;
         }
 
+        if (!this.isCurrentUserManager) {
+          this.toast("You are not a manager or owner of this smart contract.", {type: TYPE.ERROR});
+          this.waitingData = false;
+          return;
+        }
+
         // get managers
         const managers = await contract.getManagers();
 
